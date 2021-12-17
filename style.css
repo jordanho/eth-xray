@@ -1,7 +1,7 @@
 * {
 	box-sizing: border-box;
-	cursor: url(https://cur.cursors-4u.net/nature/images10/nat927.ani),
-		url(https://cur.cursors-4u.net/nature/images10/nat927.gif), auto !important;
+	cursor: url(https://ani.cursors-4u.net/cursors/cur-12/cur1100.ani),
+		url(https://ani.cursors-4u.net/cursors/cur-12/cur1100.png), auto !important;
 }
 
 img,
@@ -16,8 +16,8 @@ video {
 
 html,
 body {
-	margin: 20px;
-	padding: 20px;
+	margin: 10px;
+	padding: 10px;
 	background-image: url(./images/universe.gif);
 	background-repeat: repeat;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
