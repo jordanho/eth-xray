@@ -27,7 +27,7 @@ body {
 	text-align: center;
 }
 
-.header a {
+.header {
 	color: hotpink;
 	font-size:  2em;
 }
@@ -35,7 +35,7 @@ body {
 	text-align: center;
 }
 
-.text a {
+.text {
 	color: aquamarine;
 	font-size:  1.65em;
 }
