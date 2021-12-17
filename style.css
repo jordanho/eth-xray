@@ -22,7 +22,14 @@ body {
 	background-repeat: repeat;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+.header {
+	text-align: center;
+}
 
+.header a {
+	color: hotpink;
+	font-size:  2em;
+}
 .text {
 	text-align: center;
 }
