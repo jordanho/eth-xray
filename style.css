@@ -16,8 +16,8 @@ video {
 
 html,
 body {
-	margin: 0;
-	padding: 0;
+	margin: 20px;
+	padding: 20px;
 	background-image: url(./images/universe.gif);
 	background-repeat: repeat;
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
@@ -29,6 +29,7 @@ body {
 
 .text a {
 	color: aquamarine;
+	font-size:  1.65em;
 }
 
 .links {
